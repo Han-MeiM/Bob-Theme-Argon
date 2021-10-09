@@ -33,6 +33,5 @@
     }</script>
 <script src="theme/bob-argon/js/chunk-vendors.46c7013e.js"></script>
 <script src="theme/bob-argon/js/app.b5eb06b2.js"></script>
-<script src="theme/bob-argon/js/tools.js"></script>
 </body>
 </html>
